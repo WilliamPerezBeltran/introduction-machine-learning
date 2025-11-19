@@ -1,3 +1,10 @@
 https://openlearninglibrary.mit.edu/courses
 https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/
+https://numpy.org/devdocs/user/quickstart.html
+https://numpy.org/numpy-tutorials/content/tutorial-deep-learning-on-mnist.html
+https://web.mit.edu/dvp/Public/numpybook.pdf
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/
+https://www.w3schools.com/python/numpy/default.asp
+https://www.youtube.com/watch?v=cco7NWsuTPQ&ab_channel=georgehotzarchive
+https://www.youtube.com/watch?v=RFaFmkCEGEs&t=8221s&ab_channel=georgehotzarchive
 
